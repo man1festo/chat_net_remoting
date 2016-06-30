@@ -1,0 +1,15 @@
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteObj\bin\Debug\RemoteObj.dll
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteObj\bin\Debug\RemoteObj.pdb
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteObj\obj\Debug\ResolveAssemblyReference.cache
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteObj\obj\Debug\RemoteObj.dll
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteObj\obj\Debug\RemoteObj.pdb
+G:\Projects\RemoteChat\RemoteObj\bin\Debug\RemoteObj.dll
+G:\Projects\RemoteChat\RemoteObj\bin\Debug\RemoteObj.pdb
+G:\Projects\RemoteChat\RemoteObj\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\RemoteChat\RemoteObj\obj\Debug\RemoteObj.dll
+G:\Projects\RemoteChat\RemoteObj\obj\Debug\RemoteObj.pdb
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteObj\bin\Debug\RemoteObj.dll
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteObj\bin\Debug\RemoteObj.pdb
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteObj\obj\Debug\ResolveAssemblyReference.cache
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteObj\obj\Debug\RemoteObj.dll
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteObj\obj\Debug\RemoteObj.pdb

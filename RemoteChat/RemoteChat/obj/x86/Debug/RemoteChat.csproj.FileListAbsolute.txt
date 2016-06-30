@@ -1,0 +1,45 @@
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\obj\x86\Debug\RemoteChat.Form1.resources
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\obj\x86\Debug\RemoteChat.Properties.Resources.resources
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\bin\Debug\Client.exe.config
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\bin\Debug\Client.exe
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\bin\Debug\Client.pdb
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\bin\Debug\EventSink.dll
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\bin\Debug\RemoteObj.dll
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\bin\Debug\EventSink.pdb
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\bin\Debug\RemoteObj.pdb
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\obj\x86\Debug\Client.exe
+c:\users\11111\documents\visual studio 2010\Projects\RemoteChat\RemoteChat\obj\x86\Debug\Client.pdb
+G:\Projects\RemoteChat\RemoteChat\bin\Debug\Client.exe.config
+G:\Projects\RemoteChat\RemoteChat\obj\x86\Debug\Client.exe
+G:\Projects\RemoteChat\RemoteChat\obj\x86\Debug\Client.pdb
+G:\Projects\RemoteChat\RemoteChat\bin\Debug\Client.exe
+G:\Projects\RemoteChat\RemoteChat\bin\Debug\Client.pdb
+G:\Projects\RemoteChat\RemoteChat\bin\Debug\EventSink.dll
+G:\Projects\RemoteChat\RemoteChat\bin\Debug\RemoteObj.dll
+G:\Projects\RemoteChat\RemoteChat\bin\Debug\EventSink.pdb
+G:\Projects\RemoteChat\RemoteChat\bin\Debug\RemoteObj.pdb
+G:\Projects\RemoteChat\RemoteChat\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\RemoteChat\RemoteChat\obj\x86\Debug\RemoteChat.Form1.resources
+G:\Projects\RemoteChat\RemoteChat\obj\x86\Debug\RemoteChat.Properties.Resources.resources
+G:\Projects\RemoteChat\RemoteChat\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Projects\RemoteChat\RemoteChat\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\bin\Debug\Client.exe.config
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\obj\x86\Debug\Client.exe
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\obj\x86\Debug\Client.pdb
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\bin\Debug\Client.exe
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\bin\Debug\Client.pdb
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\bin\Debug\EventSink.dll
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\bin\Debug\RemoteObj.dll
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\bin\Debug\EventSink.pdb
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\bin\Debug\RemoteObj.pdb
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\obj\x86\Debug\RemoteChat.Form1.resources
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\obj\x86\Debug\RemoteChat.Properties.Resources.resources
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\телефон\Projects\курсач (исправлено)\RemoteChat\RemoteChat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\курсач (исправлено)\RemoteChat\RemoteChat\bin\Debug\Client.exe.config
+D:\Projects\курсач (исправлено)\RemoteChat\RemoteChat\obj\x86\Debug\Client.exe
+D:\Projects\курсач (исправлено)\RemoteChat\RemoteChat\obj\x86\Debug\Client.pdb
